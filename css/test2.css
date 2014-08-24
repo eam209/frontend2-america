@@ -1,0 +1,9 @@
+body{
+	max-width: 900px;
+}
+img{
+	border-right: 5px solid #0080FF;
+	float: left;
+	margin-right: 50px;
+	padding-right: 30px;
+}
